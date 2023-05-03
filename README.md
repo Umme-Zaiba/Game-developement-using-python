@@ -1,2 +1,3 @@
 # Python-project-
-A beginner level python projects
+A beginner level python project.
+
